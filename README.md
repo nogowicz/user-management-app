@@ -30,7 +30,7 @@ This is a simple React application that displays a user management table. It use
 
 ## Deployment
 
-The application is deployed on Vercel and can be accessed at [User Management App](https://user-management-2ltuunw0u-nogowiczs-projects.vercel.app/).
+The application is deployed on Vercel and can be accessed at [User Management App](https://user-management-app-ruby.vercel.app/).
 
 ## License
 
